@@ -1,0 +1,21 @@
+{
+  "name": "before-sunrise",
+  "displayName": "before-sunrise",
+  "description": "My own color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Before Sunrise",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Before Sunrise-color-theme.json"
+      }
+    ]
+  }
+}
