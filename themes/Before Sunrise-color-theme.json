@@ -630,7 +630,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#8c7ea2"
+				"foreground": "#c6b7de"
 			}
 		},
 		{
@@ -748,7 +748,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#FFCB6B"
 			}
 		},
 		{
@@ -775,7 +775,7 @@
 				"markup.changed"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#B2CCD6"
 			}
 		},
 		{
@@ -784,7 +784,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#ffc373"
 			}
 		},
 		{
@@ -834,7 +834,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#c792ea"
 			}
 		},
 		{
@@ -843,7 +843,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#fe6c91"
 			}
 		},
 		{
