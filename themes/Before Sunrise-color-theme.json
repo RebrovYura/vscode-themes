@@ -502,7 +502,7 @@
 			"name": "Variables",
 			"scope": [
         "variable",
-				// "string constant.other.placeholder"
+				"string constant.other.placeholder"
 			],
 			"settings": {
 				"foreground": "#f8c4da"
@@ -525,7 +525,7 @@
 			],
 			"settings": {
 				"foreground": "#FF5370",
-        "fontStyle": "underline"
+        "fontStyle": "italic bold underline"
 			}
 		},
 		{
@@ -580,7 +580,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#ed66ed"
+				"foreground": "#ed94b4"
 			}
 		},
 		{
@@ -589,7 +589,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ffbfda"
 			}
 		},
 		{
@@ -615,7 +615,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#fe6c91"
 			}
 		},
 		{
@@ -630,7 +630,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#8c7ea2"
 			}
 		},
 		{
@@ -646,7 +646,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ff9e47"
 			}
 		},
 		{
@@ -669,7 +669,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#ffbfda"
 			}
 		},
 		{
@@ -680,7 +680,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#fe6c91"
 			}
 		},
 		{
